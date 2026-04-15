@@ -1,0 +1,72 @@
+[
+  {
+    "title": "LLMs Are Not Yet Ready for Deepfake Image Detection",
+    "authors": "Shahroz Tariq, David Nguyen, M.A.P. Chamikara, Tingmin Wu, Alsharif Abuadbba, and Kristen Moore",
+    "venue": "Under Review",
+    "ranking": "Preprint",
+    "link": "https://arxiv.org/pdf/2506.10474"
+  },
+  {
+    "title": "Through the Lens: Benchmarking Deepfake Detectors Against Moiré-Induced Distortions",
+    "authors": "Razaib Tariq, Minji Heo, Simon S. Woo, and Shahroz Tariq",
+    "venue": "Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)",
+    "ranking": "A*",
+    "link": ""
+  },
+  {
+    "title": "From Prediction to Explanation: Multimodal, Explainable, and Interactive Deepfake Detection Framework for Non-Expert Users",
+    "authors": "Shahroz Tariq, Priyanka Singh, Simon S. Woo, Saakshi Gupta, Irena Irmalasari, and Dev Gupta",
+    "venue": "ACM MM '25",
+    "ranking": "A*",
+    "link": "https://arxiv.org/abs/2508.07596"
+  },
+  {
+    "title": "SoK: Systematization and Benchmarking of Deepfake Detectors in a Unified Framework",
+    "authors": "Binh M Le, Jiwon Kim, Simon S. Woo, Kristen Moore, Alsharif Abuadbba, and Shahroz Tariq",
+    "venue": "IEEE European Symposium on Security and Privacy 2025 (EuroS&P'25)",
+    "ranking": "A",
+    "link": "https://arxiv.org/abs/2401.04364"
+  },
+  {
+    "title": "Towards Understanding of Deepfake Videos in the Wild",
+    "authors": "Beomsang Cho, Binh Le, Jiwon Kim, Simon Woo, Shahroz Tariq, Alsharif Abuadbba, and Kristen Moore",
+    "venue": "CIKM 2023",
+    "ranking": "A",
+    "link": "https://arxiv.org/abs/2303.11793"
+  },
+  {
+    "title": "Deepfake in the Metaverse: Security Implications for Virtual Gaming, Meetings, and Offices",
+    "authors": "Shahroz Tariq, Alsharif Abuadbba, and Kristen Moore",
+    "venue": "WDC '23",
+    "ranking": "Workshop",
+    "link": "https://arxiv.org/abs/2302.13156"
+  },
+  {
+    "title": "Why Do Deepfake Detectors Fail?",
+    "authors": "Binh Le, Shahroz Tariq, Alsharif Abuadbba, Kristen Moore, and Simon S. Woo",
+    "venue": "WDC '23",
+    "ranking": "Workshop",
+    "link": "https://arxiv.org/abs/2302.13156"
+  },
+  {
+    "title": "Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack",
+    "authors": "Shahroz Tariq, Sowon Jeon, and Simon S. Woo",
+    "venue": "The 31st Web Conference (WWW 2022)",
+    "ranking": "A*",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3485447.3512212"
+  },
+  {
+    "title": "FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset",
+    "authors": "Hasam Khalid, Shahroz Tariq, Minha Kim, Simon S. Woo",
+    "venue": "Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS '21)",
+    "ranking": "A*",
+    "link": "https://openreview.net/forum?id=TAXFsg6ZaOl"
+  },
+  {
+    "title": "One Detector to Rule Them All: Towards a General Deep-fake Attack Detection Framework",
+    "authors": "Shahroz Tariq, Sangyup Lee, and Simon S. Woo",
+    "venue": "The 30th Web Conference (WWW 2021)",
+    "ranking": "A*",
+    "link": "https://dl.acm.org/doi/abs/2105.00187"
+  }
+]
