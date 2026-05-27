@@ -1,0 +1,515 @@
+{
+  "faceswap": {
+    "in-the-wild": [],
+    "benchmark": [
+      {
+        "url": "/examples/faceswap/benchmark/FF++/8.png",
+        "type": "image",
+        "filename": "8.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/9.png",
+        "type": "image",
+        "filename": "9.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/10.png",
+        "type": "image",
+        "filename": "10.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/4.png",
+        "type": "image",
+        "filename": "4.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/5.png",
+        "type": "image",
+        "filename": "5.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/7.png",
+        "type": "image",
+        "filename": "7.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/6.png",
+        "type": "image",
+        "filename": "6.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/2.png",
+        "type": "image",
+        "filename": "2.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/3.png",
+        "type": "image",
+        "filename": "3.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/FF++/1.png",
+        "type": "image",
+        "filename": "1.png",
+        "source": "FF++"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/8.png",
+        "type": "image",
+        "filename": "8.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/9.png",
+        "type": "image",
+        "filename": "9.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/10.png",
+        "type": "image",
+        "filename": "10.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/4.png",
+        "type": "image",
+        "filename": "4.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/5.png",
+        "type": "image",
+        "filename": "5.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/7.png",
+        "type": "image",
+        "filename": "7.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/6.png",
+        "type": "image",
+        "filename": "6.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/2.png",
+        "type": "image",
+        "filename": "2.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/3.png",
+        "type": "image",
+        "filename": "3.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFD/1.png",
+        "type": "image",
+        "filename": "1.png",
+        "source": "DFD"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/8.png",
+        "type": "image",
+        "filename": "8.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/9.png",
+        "type": "image",
+        "filename": "9.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/10.png",
+        "type": "image",
+        "filename": "10.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/4.png",
+        "type": "image",
+        "filename": "4.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/5.png",
+        "type": "image",
+        "filename": "5.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/7.png",
+        "type": "image",
+        "filename": "7.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/6.png",
+        "type": "image",
+        "filename": "6.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/2.png",
+        "type": "image",
+        "filename": "2.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/3.png",
+        "type": "image",
+        "filename": "3.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/CelebDF/1.png",
+        "type": "image",
+        "filename": "1.png",
+        "source": "CelebDF"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/8.png",
+        "type": "image",
+        "filename": "8.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/9.png",
+        "type": "image",
+        "filename": "9.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/10.png",
+        "type": "image",
+        "filename": "10.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/4.png",
+        "type": "image",
+        "filename": "4.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/5.png",
+        "type": "image",
+        "filename": "5.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/7.png",
+        "type": "image",
+        "filename": "7.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/6.png",
+        "type": "image",
+        "filename": "6.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/2.png",
+        "type": "image",
+        "filename": "2.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/3.png",
+        "type": "image",
+        "filename": "3.png",
+        "source": "DFDC"
+      },
+      {
+        "url": "/examples/faceswap/benchmark/DFDC/1.png",
+        "type": "image",
+        "filename": "1.png",
+        "source": "DFDC"
+      }
+    ]
+  },
+  "reenactment": {
+    "in-the-wild": [],
+    "benchmark": []
+  },
+  "synthesis": {
+    "in-the-wild": [
+      {
+        "url": "/examples/synthesis/in-the-wild/10_lexica.jpeg",
+        "type": "image",
+        "filename": "10_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/4_lexica.jpeg",
+        "type": "image",
+        "filename": "4_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/1_lexica.jpeg",
+        "type": "image",
+        "filename": "1_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/1.jpeg",
+        "type": "image",
+        "filename": "1.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/8.png",
+        "type": "image",
+        "filename": "8.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/9 2.png",
+        "type": "image",
+        "filename": "9 2.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/8_lexica.jpeg",
+        "type": "image",
+        "filename": "8_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/9.png",
+        "type": "image",
+        "filename": "9.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/10 2.png",
+        "type": "image",
+        "filename": "10 2.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/2_lexica.jpeg",
+        "type": "image",
+        "filename": "2_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/6.jpeg",
+        "type": "image",
+        "filename": "6.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/7.jpeg",
+        "type": "image",
+        "filename": "7.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/7_lexica.jpeg",
+        "type": "image",
+        "filename": "7_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/8 2.png",
+        "type": "image",
+        "filename": "8 2.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/10.png",
+        "type": "image",
+        "filename": "10.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/9_lexica.jpeg",
+        "type": "image",
+        "filename": "9_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/4.jpeg",
+        "type": "image",
+        "filename": "4.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/5_lexica.jpeg",
+        "type": "image",
+        "filename": "5_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/5.jpeg",
+        "type": "image",
+        "filename": "5.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/2.jpeg",
+        "type": "image",
+        "filename": "2.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/4.png",
+        "type": "image",
+        "filename": "4.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/5.png",
+        "type": "image",
+        "filename": "5.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/7.png",
+        "type": "image",
+        "filename": "7.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/6_lexica.jpeg",
+        "type": "image",
+        "filename": "6_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/6.png",
+        "type": "image",
+        "filename": "6.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/2.jpg",
+        "type": "image",
+        "filename": "2.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/3 2.png",
+        "type": "image",
+        "filename": "3 2.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/2.png",
+        "type": "image",
+        "filename": "2.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/3.png",
+        "type": "image",
+        "filename": "3.png",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/3.jpg",
+        "type": "image",
+        "filename": "3.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/3_lexica.jpeg",
+        "type": "image",
+        "filename": "3_lexica.jpeg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/1.jpg",
+        "type": "image",
+        "filename": "1.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/in-the-wild/1.png",
+        "type": "image",
+        "filename": "1.png",
+        "source": "General"
+      }
+    ],
+    "benchmark": [
+      {
+        "url": "/examples/synthesis/benchmark/8.jpg",
+        "type": "image",
+        "filename": "8.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/9.jpg",
+        "type": "image",
+        "filename": "9.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/10.jpg",
+        "type": "image",
+        "filename": "10.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/4.jpg",
+        "type": "image",
+        "filename": "4.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/5.jpg",
+        "type": "image",
+        "filename": "5.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/7.jpg",
+        "type": "image",
+        "filename": "7.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/6.jpg",
+        "type": "image",
+        "filename": "6.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/2.jpg",
+        "type": "image",
+        "filename": "2.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/3.jpg",
+        "type": "image",
+        "filename": "3.jpg",
+        "source": "General"
+      },
+      {
+        "url": "/examples/synthesis/benchmark/1.jpg",
+        "type": "image",
+        "filename": "1.jpg",
+        "source": "General"
+      }
+    ]
+  }
+}
