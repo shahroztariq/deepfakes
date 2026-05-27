@@ -9,7 +9,7 @@ export default function Explorer() {
 
   // Fetch the manifest on mount
   useEffect(() => {
-    fetch('/data/deepfake_examples.json')
+    fetch(`${import.meta.env.BASE_URL}data/deepfake_examples.json`)
       .then(res => res.json())
       .then(data => setManifest(data))
       .catch(err => console.error("Could not load deepfake examples", err));
@@ -114,9 +114,9 @@ export default function Explorer() {
           currentMedia.map((media, idx) => (
             <div className="media-item" key={`${media.url}-${idx}`}>
               {media.type === 'video' ? (
-                <video src={media.url} autoPlay loop muted playsInline />
+                <video src={`${import.meta.env.BASE_URL}${media.url.startsWith('/') ? media.url.slice(1) : media.url}`} autoPlay loop muted playsInline />
               ) : (
-                <img src={media.url} alt={`Deepfake Example - ${category}`} loading="lazy" />
+                <img src={`${import.meta.env.BASE_URL}${media.url.startsWith('/') ? media.url.slice(1) : media.url}`} alt={`Deepfake Example - ${category}`} loading="lazy" />
               )}
               {media.source && media.source !== "General" && (
                 <div className="media-source-badge">
